@@ -13,6 +13,27 @@ This project is a simple storefront built with Angular, showcasing various Angul
 - **Routing:** Implements Angular routing to navigate between different sections of the application.
 - **CRUD Operations:** Users can perform Create, Read, Update, and Delete operations on products.
 
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
+- Angular CLI: npm install -g @angular/cli
+- [Prime NG]([https://www.npmjs.com/](https://primeng.org/))
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jakubbocek/storefront-frontend.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
