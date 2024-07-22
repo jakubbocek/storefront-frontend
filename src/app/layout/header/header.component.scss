@@ -5,10 +5,13 @@
   padding: 2rem;
   box-sizing: border-box;
 
-  .logo {
-    height: 2rem;
-    object-fit: contain;
+  .logo-link {
     margin-right: auto;
+
+    .logo {
+      height: 2rem;
+      object-fit: contain;
+    }
   }
 
   a {
