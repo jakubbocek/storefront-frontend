@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 - Angular CLI: npm install -g @angular/cli
-- [Prime NG]((https://primeng.org/))
+- [Prime NG](https://primeng.org/)
 
 ### Installation
 
