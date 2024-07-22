@@ -34,6 +34,10 @@ Before you begin, ensure you have the following installed:
    npm install
    ```
 
+
+### Login
+To login username is "user" and password is "password" without quotation marks, of course.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
