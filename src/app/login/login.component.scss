@@ -5,6 +5,12 @@
   height: 100vh;
   background-color: rgb(237 237 237);
 
+  .logo {
+    height: 2rem;
+    object-fit: contain;
+    margin-bottom: 2rem;
+  }
+
   .row {
     .span {
       font-size: 1rem;
