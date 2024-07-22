@@ -1,0 +1,18 @@
+.form-wrapper {
+  .row {
+    span {
+      flex: 1;
+    }
+
+    input {
+      flex: 3;
+      padding: 0.5rem;
+      border: 1px solid var(--text-color);
+      border-radius: 3px;
+    }
+  }
+}
+
+.rating {
+  margin-top: 0.5rem;
+}

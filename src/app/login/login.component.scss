@@ -1,0 +1,21 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(237 237 237);
+
+  .row {
+    .span {
+      font-size: 1rem;
+      font-weight: 300;
+      flex: 1;
+    }
+    input {
+      flex: 3;
+      padding: 0.5rem;
+      border: 1px solid var(--text-color);
+      border-radius: 3px;
+    }
+  }
+}
